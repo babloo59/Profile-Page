@@ -178,6 +178,7 @@
   .profile-bottom-wrapper {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: space-between;
     gap: 16px 0;
   }
